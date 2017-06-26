@@ -1,0 +1,14 @@
+obj
+build
+bin
+bin_release
+packages
+debug
+release
+*.autogen
+*.swp
+*.suo
+*.sdf
+*.aps
+*.csproj.user
+*.DotSettings.user
